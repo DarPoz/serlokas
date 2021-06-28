@@ -1,6 +1,6 @@
 #  Procesas                                                                  
 
-- [ ] pradine failu struktura
+- [ pradine failu struktura
   - index.html
   - gitignore
 - [ ] paviesinti  per Git Hub pages (gausim URL)
