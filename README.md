@@ -17,8 +17,7 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 - Github pages
 - png images
-- fixed width content
-- desktop only
+
 
 ## Authors
 
