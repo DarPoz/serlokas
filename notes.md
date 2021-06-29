@@ -1,16 +1,16 @@
 #  Procesas                                                                  
 
-- [ pradine failu struktura
-  - index.html
-  - gitignore
-- [ ] paviesinti  per Git Hub pages (gausim URL)
-- [ ] README.md
+- [x] pradine failu 
+  -  index.html
+  -  gitignore
+- [x] paviesinti  per Git Hub pages (gausim URL)
+- [x] README.md
     - skirta aprasyti kas, ka ir kodel daro
     - iterpti nuoroda i daroma dizaina
     - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
-- [ ] reikes atlikti dizaino analize
-- [ ] surasyti HTML
-- [ ] issikirpti nuotraukas ir jas panaudoti
+- [x] reikes atlikti dizaino analize
+- [x] surasyti HTML
+- [x] issikirpti nuotraukas ir jas panaudoti
     - panaudoti realityvu kelia
 - [ ] aprasyti stilius
 
@@ -24,4 +24,6 @@
  1. magic vand-> tolerance
  2. ctrl + 1
  3. ctrl + shift + x
- 4. ctrl + s
+ 4. ctrl+s
+
+
