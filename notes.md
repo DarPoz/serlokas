@@ -12,7 +12,7 @@
 - [x] surasyti HTML
 - [x] issikirpti nuotraukas ir jas panaudoti
     - panaudoti realityvu kelia
-- [ ] aprasyti stilius
+- [x] aprasyti stilius
 
     # Pasiskaitymui
     apie cia naudojama rasymo sintakse ( md- markdown) https://guides.github.com/features/mastering-markdown/
